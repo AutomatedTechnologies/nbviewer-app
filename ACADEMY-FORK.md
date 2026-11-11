@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** Jupyter Notebook Viewer — https://github.com/tuxu/nbviewer-app
-- **Original authors:** Copyright © 2017 Tino Wagner; The above copyright notice and this permission notice shall be; NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+- **Original authors:** Tino Wagner, © 2017
 - **License:** MIT (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** efca34702843b151f96c760555f45cb006e2f65c (upstream HEAD of `master` at acquisition)
 - **Date acquired:** 2026-11-08
